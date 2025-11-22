@@ -1,0 +1,246 @@
+/* .main {
+  margin-top: 100px;
+}
+
+.logo-img {
+  display: block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+.butt {
+  margin-top: 30px;
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: #dfe1e5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: none;
+}
+
+.btn-wrapper{
+  display: flex;
+  justify-content: center;
+} */
+/* .item{
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: center;
+} */
+
+/* body{
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img{
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.card{
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  border: 5px solid #d8cefe;
+  background-color: #b8f3ff;
+  color: #2b2839;
+  border-radius: 9px;
+
+}
+ 
+.info{
+  margin-top: auto;
+  margin-bottom: auto;
+} */
+
+/* body{
+  color: #8c5861;
+  text-align: center;
+  font-family: godfather;
+  font-size: 40px;
+  margin: 0;
+  letter-spacing: 1px;
+  background-color: whitesmoke;
+}
+
+.bttn{
+  padding: 8px 16px;
+  background: white;
+  border: none;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+@font-face{
+  src: url("TheGodfather-v2.ttf");
+  font-family: godfather;
+}
+
+.underline{
+  border-bottom: 4px solid white;
+}
+
+#main-logo{
+width: 300px;
+background-color: aquamarine;
+}
+
+#hero{
+  background-image: url("Loop\ Space\ GIF.gif");
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 45px;
+
+}
+
+#note{
+  text-shadow: 2px -2px 2px black;
+  letter-spacing: 2px;
+}
+
+#titletxt{
+  text-shadow: 0px 0px 5px aquamarine;
+  letter-spacing: 2px;
+
+} */
+
+#image {
+  border-radius: 50%;
+  width: 300px;
+  border: 8px solid #efb0c9;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Happy Monkey", system-ui;
+  color: #ffffff;
+}
+
+body {
+  background: linear-gradient(lightskyblue,white);
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  text-shadow: 0 0 2px black;
+}
+#bday-age {
+  background: #efb0c9;
+  padding: 6px 10px;
+  border-radius: 7px;
+}
+#bday-date {
+  background: #efb0c9;
+  padding: 8px;
+  border-radius: 7px;
+  margin-top: -8px;
+}
+
+.gift-image {
+  border: 5px solid whitesmoke;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
+  background-image: url("gift-cover.jpg");
+  background-size: cover;
+  margin: 20px auto;
+}
+.gift-image:hover{
+  background-image: url("congratulations-1173_512.gif");
+  background-size: cover;
+}
+
+#gift-image1:hover{
+  background: url("celebrating-zeltlager-werreweser.gif");
+  background-size: cover;
+}
+#gift-image2:hover{
+  background: url("dj-khaled-you-a-genius.gif");
+  background-size: cover;
+}
+#gift-image3:hover{
+  background-image: url("saturday-night-live-lonely-island.gif");
+  background-size: contain;
+}
+#gift-image4{
+  height: 200px;
+}
+#gift-image4:hover{
+  background-image: url("cheers-toast.gif");
+  background-size: contain;
+}
+.gift-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Happy Monkey", system-ui;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+#bday-hints{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Happy Monkey", system-ui;
+  color: #ffffff;
+  margin-top: 0px;
+}
+.gift-section{
+text-align: center;
+}
+
+#footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Happy Monkey", system-ui;
+  color: #ffffff;
+  margin: 40px auto 20px;
+  width: 400px;
+}
+a{
+  color: white;
+}
+p{
+  font-style: italic;
+}
